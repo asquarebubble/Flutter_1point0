@@ -45,7 +45,6 @@ class HelloWorldApp extends StatelessWidget {
                   Expanded(
                     child: Container(
                       height: 200,
-                      width: 300,
                       decoration: BoxDecoration(
                         color: Colors.black26,
                       ),
@@ -66,12 +65,11 @@ class HelloWorldApp extends StatelessWidget {
                   Expanded(
                     child: Container(
                       height: 200,
-                      width: 300,
                       decoration: BoxDecoration(
                         color: Colors.black26,
                       ),
                       alignment: Alignment.center,
-                      margin: EdgeInsets.fromLTRB(5.0, 10.0, 5.0, 10.0),
+                      margin: EdgeInsets.fromLTRB(10.0, 10.0, 5.0, 10.0),
                       child: Text(
                         'Hello world',
                         textDirection: TextDirection.ltr,
@@ -87,12 +85,11 @@ class HelloWorldApp extends StatelessWidget {
                   Expanded(
                     child: Container(
                       height: 200,
-                      width: 300,
                       decoration: BoxDecoration(
                         color: Colors.black26,
                       ),
                       alignment: Alignment.center,
-                      margin: EdgeInsets.fromLTRB(5.0, 10.0, 5.0, 10.0),
+                      margin: EdgeInsets.fromLTRB(10.0, 10.0, 5.0, 10.0),
                       child: Text(
                         'Hello world',
                         textDirection: TextDirection.ltr,
@@ -108,12 +105,11 @@ class HelloWorldApp extends StatelessWidget {
                   Expanded(
                     child: Container(
                       height: 200,
-                      width: 300,
                       decoration: BoxDecoration(
                         color: Colors.black26,
                       ),
                       alignment: Alignment.center,
-                      margin: EdgeInsets.fromLTRB(5.0, 10.0, 10.0, 10.0),
+                      margin: EdgeInsets.fromLTRB(10.0, 10.0, 5.0, 10.0),
                       child: Text(
                         'Hello world',
                         textDirection: TextDirection.ltr,
