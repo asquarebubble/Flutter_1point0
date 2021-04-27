@@ -41,7 +41,6 @@ class HelloWorldApp extends StatelessWidget {
                 ),
               ),
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Expanded(
                     child: Container(
