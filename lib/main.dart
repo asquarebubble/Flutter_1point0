@@ -10,7 +10,7 @@ class HelloWorldApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.black45,
+          backgroundColor: Colors.black87,
           title: Text(
             'Hello world',
             textDirection: TextDirection.ltr,
