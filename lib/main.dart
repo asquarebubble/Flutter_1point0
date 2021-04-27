@@ -11,7 +11,7 @@ class HelloWorldApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.black12,
-          title:  Text(
+          title: Text(
             'Hello world',
             textDirection: TextDirection.ltr,
           ),
