@@ -69,7 +69,7 @@ class HelloWorldApp extends StatelessWidget {
                         color: Colors.black26,
                       ),
                       alignment: Alignment.center,
-                      margin: EdgeInsets.fromLTRB(10.0, 10.0, 5.0, 10.0),
+                      margin: EdgeInsets.fromLTRB(5.0, 10.0, 5.0, 10.0),
                       child: Text(
                         'Hello world',
                         textDirection: TextDirection.ltr,
@@ -89,7 +89,7 @@ class HelloWorldApp extends StatelessWidget {
                         color: Colors.black26,
                       ),
                       alignment: Alignment.center,
-                      margin: EdgeInsets.fromLTRB(10.0, 10.0, 5.0, 10.0),
+                      margin: EdgeInsets.fromLTRB(5.0, 10.0, 5.0, 10.0),
                       child: Text(
                         'Hello world',
                         textDirection: TextDirection.ltr,
@@ -109,7 +109,7 @@ class HelloWorldApp extends StatelessWidget {
                         color: Colors.black26,
                       ),
                       alignment: Alignment.center,
-                      margin: EdgeInsets.fromLTRB(10.0, 10.0, 5.0, 10.0),
+                      margin: EdgeInsets.fromLTRB(5.0, 10.0, 10.0, 10.0),
                       child: Text(
                         'Hello world',
                         textDirection: TextDirection.ltr,
